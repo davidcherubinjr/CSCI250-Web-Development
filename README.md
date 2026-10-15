@@ -12,7 +12,7 @@ A collection of web development and server-side scripting projects created for C
 ## Projects
 
 ### Project 1: Linux Web Server Setup & HTML Basics
-* **Live Demo:** [View Live Site](http://code.ceos.io/csci250/dcherubinjr/dcherubinjr-csci250-proj01.html)
+* **Live Demo:** [View Live Site](http://code.ceos.io/csci250/dcherubinjr/bootstrap/)
 * **Description:** Initial setup of Linux web server directory structures and creation of structured HTML web pages.
 
 ### Project 2: CSS Styling & Page Layout
@@ -24,5 +24,4 @@ A collection of web development and server-side scripting projects created for C
 * **Description:** Dynamic PHP web page that checks server dates using `if`/`elseif` blocks to display specific holiday greetings and images, complete with URL query parameter overrides (`?date=MM-DD`) for testing.
 
 ### Project 4: Form Processing & Security Mockup
-* **Live Demo:** [View Live Site](http://code.ceos.io/csci250/dcherubinjr/php/action_page_post.php)
-* **Description:** PHP form handler processing HTML `POST` submissions, validating username/password logic, and outputting SHA1 password hashes.
+* **Create a Virtual Machine using VirtualBox running an Ubuntu version of Linux
